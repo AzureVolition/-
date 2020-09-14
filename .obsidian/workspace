@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "线性空间/线性子空间.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9775e9e01622411e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "线性空间/线性子空间.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "线性空间/线性子空间.md"
               }
             }
           }
@@ -76,8 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "线性空间/线性子空间.md",
+    "线性空间/线性空间.md",
     "Untitled.md",
-    "线性空间.md",
-    "向量.md"
+    "线性空间/Untitled.md",
+    "README.md"
   ]
 }
