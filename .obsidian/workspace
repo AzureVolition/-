@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "d482c73a4ee68234",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e9f758fdc74ab32",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c76f755aa3f169b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff56d325c5aa0c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a7094aba94d501",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8057407e6b24eeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a0ed11b039e0b99",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c5656031f0c512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96281b1426d872cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "线性空间.md",
+    "向量.md"
+  ]
+}
